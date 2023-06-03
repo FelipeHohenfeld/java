@@ -13,5 +13,7 @@ public class ExercicioPi {
             R = sc.nextDouble();
             A = Pi * R * R;
             System.out.printf("A = %.4f%n", A);
+
+            sc.close();
     }   
 }
