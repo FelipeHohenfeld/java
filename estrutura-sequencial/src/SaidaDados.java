@@ -24,8 +24,5 @@ public class SaidaDados {
             System.out.printf("Measue with eigth decimal places: %.8f%n", measure);
             System.out.printf("Rouded (three decimal places): %.3f%n", measure);
             System.out.printf("USS decimal point: %.3f", measure);
-
-
-
     }
 }
