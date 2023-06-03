@@ -9,6 +9,7 @@ public class ExercicioPi {
         Scanner sc = new Scanner(System.in);
     
             double R, A, Pi = 3.14159;
+            System.out.println("Digite o valor do raio: ");
             R = sc.nextDouble();
             A = Pi * R * R;
             System.out.printf("A = %.4f%n", A);
